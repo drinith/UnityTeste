@@ -1,0 +1,1 @@
+Acho que dei um autoremove e um autoclean e fiquei instalando o monodevelop, mas também tive a ideia de tentar acessar o using das libs
