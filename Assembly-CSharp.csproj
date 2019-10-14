@@ -53,6 +53,8 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\FollowPLayer.cs" />
+     <Compile Include="Assets\PlayerCollision.cs" />
      <Compile Include="Assets\PlayerMoviment.cs" />
      <None Include="Assets\anotações.txt" />
  <Reference Include="Unity.Timeline.Editor">
